@@ -21,8 +21,7 @@ export default function CarouselCustomArrows() {
                   onClick={() => setActiveIndex(i)}
                 />
                
-                  </>
-              ))}
+                  </> ))}
 
             </div>
           )}
@@ -157,3 +156,6 @@ const VideoComponenet = ({ card, i }: { card: card; i: number }) => {
 {
   /*; */
 }
+
+
+
